@@ -1,7 +1,7 @@
 #include <QCoreApplication>
 #include <QTest>
 
-#include "pointmassif.h"
+#include "pointMateriel.h"
 #include "lienressort.h"
 
 class TestPointMateriel : public QObject
